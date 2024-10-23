@@ -28,12 +28,10 @@ git clone https://github.com/TruongNV-hut/AIcandy_Android_ImageClassification_sm
 ```
 
 ### Video Demo
-```bash
-Youtube: https://youtu.be/DqUtsML11oA
-```
+Youtube: [https://www.youtube.com/@aicandyvn/videos](https://youtu.be/DqUtsML11oA)
+
 
 ### More Information
-
 
 To learn more about knowledge and real-world projects on Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), visit the website [aicandy.vn](https://aicandy.vn/).
 
