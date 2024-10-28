@@ -32,6 +32,7 @@ Youtube: [https://www.youtube.com/@aicandyvn/videos](https://youtu.be/DqUtsML11o
 
 
 ### More Information
+To learn more about this project, [see here](https://aicandy.vn/trien-khai-phan-loai-hinh-anh-tren-thiet-bi-android).
 
 To learn more about knowledge and real-world projects on Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), visit the website [aicandy.vn](https://aicandy.vn/).
 
